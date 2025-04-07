@@ -1,5 +1,5 @@
 ### About Me:
-<h1 align="center">🎤 Jyotiprakash Panigrahi — The Computational Vocalist</h1>
+<h1 align="center">🎤 Jyotiprakash Panigrahi</h1>
 
 
 class Jyotiprakash:
