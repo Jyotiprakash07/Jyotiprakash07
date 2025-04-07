@@ -14,7 +14,7 @@ class Jyotiprakash:
 
 ## 🎙️ About Me
 
-> *"Imagine a vocalist whose every note resonates with code and whose chorus echoes through simulations. That’s me — a performer on the digital stage of science."*
+"Imagine a vocalist whose every note resonates with code and whose chorus echoes through simulations. That’s me — a performer on the digital stage of science."
 
 - 🔭 Physics-fueled creativity with precision-tuned coding  
 - 🎵 Translates equations into algorithms with lyrical fluency  
@@ -51,14 +51,14 @@ import matplotlib.pyplot as plt
 x = np.linspace(0, 2*np.pi, 100)
 y = np.sin(x) + 0.5 * np.sin(3*x)
 plt.plot(x, y, color='purple', linewidth=2)
-plt.title("🎶 Harmonic Overture — Wave Superposition")
+plt.title("Harmonic Overture — Wave Superposition")
 plt.xlabel("Phase")
 plt.ylabel("Amplitude")
 plt.grid(True)
 plt.show()
 
 
-> 🎶 _This plot isn’t just data — it’s my solo at center stage._
+🎶 _This plot isn’t just data — it’s my solo at center stage._
 
 ---
 
