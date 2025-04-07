@@ -74,7 +74,7 @@ plt.show()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JyotiprakashPanigrahi&show_icons=true&theme=radical" alt="Jyotiprakash's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jyotiprakash07&show_icons=true&theme=radical" alt="Jyotiprakash's GitHub Stats">
 </p>
 
 ---
