@@ -92,6 +92,6 @@ Are you into:
 
 ---
 
-> _“I don’t just code — I compose symphonies of simulation. Let’s perform one together.”_ 🎶
-```
+“I don’t just code — I compose symphonies of simulation. Let’s perform one together.”_ 🎶
+
 
