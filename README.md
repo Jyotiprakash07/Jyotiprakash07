@@ -88,7 +88,7 @@ Are you into:
 
 🎤 Let's jam!
 
-📫 Reach me via [LinkedIn](https://linkedin.com/in/yourprofile) or [Email](mailto:your.email@example.com)
+📫 Reach me via [LinkedIn]https://www.linkedin.com/in/jyotiprakash-panigrahi-ab4794241 or [Email](mailto:your.email@example.com)
 
 ---
 
