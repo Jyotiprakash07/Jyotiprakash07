@@ -1,9 +1,9 @@
 <!-- VIBRANT GREETING -->
 <h1 align="center">
-  👋✨ Welcome, Curious Visitor! ✨👋
+  👋✨ Hi, I am Jyotiprakash ! ✨👋
 </h1>
 <p align="center">
-  <b>Hi, I'm Jyotiprakash Panigrahi</b> 🎯<br>
+  <b>Venturing through the superposition of code and cosmos. Aim to make the paradox into reality.</b> 🎯<br>
   <i>A Physics Graduate has a charismatic view on physics| Aspiring to quantize science with tech| Cybersecurity Beginner | Lifelong Learner</i>
 </p>
 <p align="center">
