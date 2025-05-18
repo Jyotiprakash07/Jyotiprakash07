@@ -88,7 +88,7 @@ and follow instructions to generate your own SVG -->
 <!-- SOCIAL / CONTACT BADGES -->
 <p align="center">
   <a href="mailto:jyotiprakashpani7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://t.me/yourtelegramusername"><img src="https://img.shields.io/badge/Telegram-Join-blue?logo=telegram&style=for-the-badge"></a>
+  <a href="https://t.me/@Jyotiprakash7777"><img src="https://img.shields.io/badge/Telegram-Join-blue?logo=telegram&style=for-the-badge"></a>
   <!-- Add your YouTube or other links if active -->
 </p>
 
