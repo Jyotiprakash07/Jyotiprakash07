@@ -4,7 +4,7 @@
 </h1>
 <p align="center">
   <b>Venturing through the superposition of code and cosmos. Aim to make the paradox into reality.</b> 🎯<br>
-  <i>A Physics Graduate has a charismatic view on physics| Aspiring to quantize science with tech| Cybersecurity Beginner | Lifelong Learner</i>
+  <i>A Physics Graduate has a charismatic view on physics. | Aspiring to quantize science with tech | Cybersecurity Beginner | Lifelong Learner</i>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Physics+Graduate+and+Tech+Enthusiast;Cyber+Security+Beginner;Passionate+about+Web+Development;Let%27s+Build+Something+Awesome!">
