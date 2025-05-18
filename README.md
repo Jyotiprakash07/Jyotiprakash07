@@ -1,97 +1,100 @@
-
-
-<h1 align="center">🎤 Jyotiprakash Panigrahi — The Computational Vocalist</h1>
-
-
-class Jyotiprakash:
-    role = "Computational Physicist + Full-Stack Technologist"
-    signatureStyle = "Solving Physics Problems through Code"
-    voiceRange = ["Python", "Java", "JavaScript", "Simulation", "Security"]
-    stageSetup = ["NumPy", "Matplotlib", "Three.js", "React", "Spring Boot"]
-
-
----
-
-## 🎙️ About Me
-
-"Imagine a vocalist whose every note resonates with code and whose chorus echoes through simulations. That’s me — a performer on the digital stage of science."
-
-- 🔭 Physics-fueled creativity with precision-tuned coding  
-- 🎵 Translates equations into algorithms with lyrical fluency  
-- 🌌 Performs in the grand auditorium of computation, from electromagnetism to orbital mechanics  
-
----
-
-## 🎶 Skills as a Vocalist
-
-| 🎤 Component        | 💬 Description |
-|--------------------|----------------|
-| 🎧 **Vocal Technique** | Commanding control over simulations and system logic using Python, Java & beyond |
-| 🧠 **Repertoire**       | Covers topics like quantum physics, classical mechanics, and signal processing |
-| 🛠 **Studio Gear**      | Equipped with `NumPy`, `Matplotlib`, and `Three.js` for visual storytelling |
-| 🎚️ **Mixing Console**  | Blends front-end harmonies with backend power, tuned for performance and security |
-| 🧬 **Improvisation**    | Agile in adapting to new tools, tech, and challenges — can improvise solos or sing lead |
-
----
-
-## 🌟 Highlight Performances
-
-- 🌌 **AstroSim** – Simulates orbital dynamics with stunning visuals using Python + NumPy  
-- 🌀 **QuantumVisualizer** – Brings the elegance of quantum mechanics to life with animated `Three.js` displays  
-- 💻 **ElectroCode** – A backend rock anthem using Java to solve Maxwell’s equations  
-- 🧠 **[Udyog AI](https://github.com/JyotiprakashPanigrahi/Udyog-AI)** – My flagship performance: a smart AI-driven platform built with Java, Spring Boot, React, and deep learning that transforms how industry and intelligence harmonize  
-
----
-
-## 🎼 Signature Solo: Code That Sings
-
-import numpy as np
-import matplotlib.pyplot as plt
-
-x = np.linspace(0, 2*np.pi, 100)
-y = np.sin(x) + 0.5 * np.sin(3*x)
-plt.plot(x, y, color='purple', linewidth=2)
-plt.title("Harmonic Overture — Wave Superposition")
-plt.xlabel("Phase")
-plt.ylabel("Amplitude")
-plt.grid(True)
-plt.show()
-
-
-🎶 _This plot isn’t just data — it’s my solo at center stage._
-
----
-
-## 🔊 Sound Check: My Signature Sound
-
-🎙️ *Lead Vocals* = User Interfaces for interactive simulations  
-🎸 *Rhythmic Bass* = Backend computations in Java and Python  
-🌌 *Reverb & FX* = Real-time visualizations and mathematical animations  
-🔥 *Vocal Riffs* = Debugging complex physics logic with style  
-
----
-
-## 📊 GitHub Stats
-
+<!-- VIBRANT GREETING -->
+<h1 align="center">
+  👋✨ Welcome, Curious Visitor! ✨👋
+</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jyotiprakash07&show_icons=true&theme=radical" alt="Jyotiprakash's GitHub Stats">
+  <b>Hi, I'm Jyotiprakash Panigrahi</b> 🎯<br>
+  <i>A Physics Graduate has a charismatic view on physics| Aspiring to quantize life with tech| Cybersecurity Beginner | Lifelong Learner</i>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Physics+Graduate+and+Tech+Enthusiast;Cyber+Security+Beginner;Passionate+about+Web+Development;Let%27s+Build+Something+Awesome!">
 </p>
 
 ---
 
-## 🤝 Let’s Make Music Together
-
-Are you into:
-- 🎵 Data sonification or physics visualization?  
-- 🧠 AI-powered simulations?  
-- 🛠 Turning complex theory into beautiful, understandable output?  
-
-🎤 Let's jam!
-
-📫 Reach me via [LinkedIn]https://www.linkedin.com/in/jyotiprakash-panigrahi-ab4794241 or [Email](mailto:your.email@example.com)
+<!-- PROFILE QUICK INFO -->
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <ul>
+        <li>🔭 <b>Currently working on:</b> Enhancing my web and cybersecurity skills</li>
+        <li>🌱 <b>Learning:</b> Cyber Security, Advanced React, Django REST</li>
+        <li>💬 <b>Ask me about:</b> Python, JS, Flask, Django, React</li>
+        <li>📬 <b>Email:</b> <a href="mailto:jyotiprakashpani7@gmail.com">jyotiprakashpani7@gmail.com</a></li>
+        <li>🎓 <b>Physics Graduate</b> | <b>Higher Studies Aspirant</b></li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jyotiprakash07&theme=tokyonight" alt="GitHub Streak"/>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jyotiprakash07&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-“I don’t just code — I compose symphonies of simulation. Let’s perform one together.”_ 🎶
+<!-- SKILLS & STACK BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cyber%20Security-beginner-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Physics%20Graduate-blueviolet?style=for-the-badge" />
+</p>
 
+---
 
+<!-- STATS BOX (Like Karma, Tasks, Streak) -->
+```text
+🏅 2,878 Karma Points
+✅ Completed 160 tasks so far
+🚀 Completed 7 tasks today
+📅 Completed 16 tasks this week
+🔥 Longest streak is 10 days
+```
+
+---
+
+<!-- STARRED TOPICS (replace with your own or use icons) -->
+<p align="center">
+  <b>Starred Topics & Tools:</b><br>
+  <img src="https://skillicons.dev/icons?i=js,react,python,flask,django,html,css,github,linux,git" />
+</p>
+
+---
+
+<!-- RECENT ACTIVITY (static example, for live see below) -->
+<details>
+  <summary><b>⚡ My Recent GitHub Activity</b></summary>
+  
+- Opened PR #3845 in webpack/webpack.js.org
+- Commented on #7 in madlabsinc/teachcode
+- Merged PR #64 in iamgeorge007/Crypt
+- Merged PR #181 in madlabsinc/menu-cli
+- Closed issue #180 in madlabsinc/menu-cli
+
+<!-- To show live activity, use: 
+https://github.com/Readme-Workflows/recent-activity
+and follow instructions to generate your own SVG -->
+</details>
+
+---
+
+<!-- SOCIAL / CONTACT BADGES -->
+<p align="center">
+  <a href="mailto:jyotiprakashpani7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://t.me/yourtelegramusername"><img src="https://img.shields.io/badge/Telegram-Join-blue?logo=telegram&style=for-the-badge"></a>
+  <!-- Add your YouTube or other links if active -->
+</p>
+
+---
+
+<!-- GITHUB TROPHY (optional) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jyotiprakash07&theme=onestar" />
+</p>
